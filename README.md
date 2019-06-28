@@ -2,7 +2,7 @@
 Hard Password Generator
 
 ![alt text](https://img.shields.io/badge/Coded-xNot_Found-blue.svg)
-![alt text](https://img.shields.io/badge/Size-15.00KB-yellow.svg)
+![alt text](https://img.shields.io/badge/Size-94.00KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-2.7-green.svg)
 # Sample Image
 ![alt text](https://raw.githubusercontent.com/hatakecnk/hatakecnk.github.io/master/Screenshot_2019-06-11-01-02-40-443_com.termux.png)
